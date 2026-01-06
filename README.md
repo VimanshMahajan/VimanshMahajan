@@ -52,16 +52,17 @@ I enjoy building projects that combine practical engineering with intelligent sy
 ---
 
 <!-- 🐙 GitHub Contribution Cards -->
-<p align="center">
+
+<div align="center">
   <!-- Contribution Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VimanshMahajan&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VimanshMahajan&theme=radical&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</div>
 
-  <br><br>
+<br />
 
-  <!-- Language Stats -->
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimanshMahajan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
 
 
 ---
